@@ -1,0 +1,524 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SMandatoryPacksData>
+    <Paths>
+        <!--
+        ================================================================================================================
+        = GTA
+        ================================================================================================================-->
+        <Item>platform:/dlcPacks/mpBeach/</Item>
+        <Item>platform:/dlcPacks/mpBusiness/</Item>
+        <Item>platform:/dlcPacks/mpChristmas/</Item>
+        <Item>platform:/dlcPacks/mpValentines/</Item>
+        <Item>platform:/dlcPacks/mpBusiness2/</Item>
+        <Item>platform:/dlcPacks/mpHipster/</Item>
+        <Item>platform:/dlcPacks/mpIndependence/</Item>
+        <Item>platform:/dlcPacks/mpPilot/</Item>
+        <Item>platform:/dlcPacks/spUpgrade/</Item>
+        <Item>platform:/dlcPacks/mpLTS/</Item>
+        <Item>dlcpacks:/mpheist/</Item>
+        <Item>dlcpacks:/mppatchesng/</Item>
+        <Item>dlcpacks:/patchday1ng/</Item>
+        <Item>dlcpacks:/patchday2ng/</Item>
+        <Item>dlcpacks:/mpchristmas2/</Item>
+        <Item>dlcpacks:/patchday2bng/</Item>
+        <Item>dlcpacks:/patchday3ng/</Item>
+        <Item>dlcpacks:/patchday4ng/</Item>
+        <Item>dlcpacks:/mpluxe/</Item>
+        <Item>dlcpacks:/patchday5ng/</Item>
+        <Item>dlcpacks:/mpluxe2/</Item>
+        <Item>dlcpacks:/patchday6ng/</Item>
+        <Item>dlcpacks:/mpreplay/</Item>
+        <Item>dlcpacks:/patchday7ng/</Item>
+        <Item>dlcpacks:/mplowrider/</Item>
+        <Item>dlcpacks:/mphalloween/</Item>
+        <Item>dlcpacks:/patchday8ng/</Item>
+        <Item>dlcpacks:/mpapartment/</Item>
+        <item>dlcpacks:/mpxmas_604490/</item>
+        <Item>dlcpacks:/mplowrider2/</Item>
+        <Item>dlcpacks:/mpjanuary2016/</Item>
+        <Item>dlcpacks:/mpvalentines2/</Item>
+        <Item>dlcpacks:/patchday9ng/</Item>
+        <Item>dlcpacks:/mpexecutive/</Item>
+        <Item>dlcpacks:/patchday10ng/</Item>
+        <Item>dlcpacks:/mpstunt/</Item>
+        <Item>dlcpacks:/patchday11ng/</Item>
+        <Item>dlcpacks:/mpimportexport/</Item>
+        <Item>dlcpacks:/mpbiker/</Item>
+        <Item>dlcpacks:/patchday12ng/</Item>
+        <Item>dlcpacks:/patchday13ng/</Item>
+        <Item>dlcpacks:/mpspecialraces/</Item>
+        <Item>dlcpacks:/mpgunrunning/</Item>
+        <Item>dlcpacks:/mpairraces/</Item>
+        <Item>dlcpacks:/mpsmuggler/</Item>
+        <Item>dlcpacks:/mpchristmas2017/</Item>
+        <Item>dlcpacks:/mpassault/</Item>
+        <Item>dlcpacks:/mpbattle/</Item>
+        <Item>dlcpacks:/patchday14ng/</Item>
+        <Item>dlcpacks:/patchday15ng/</Item>
+        <Item>dlcpacks:/patchday16ng/</Item>
+        <Item>dlcpacks:/patchday17ng/</Item>
+        <Item>dlcpacks:/patchday18ng/</Item>
+        <Item>dlcpacks:/patchday19ng/</Item>
+        <Item>dlcpacks:/patchday20ng/</Item>
+        <Item>dlcpacks:/mpchristmas2018/</Item>
+        <Item>dlcpacks:/patchday21ng/</Item>
+        <Item>dlcpacks:/mpvinewood/</Item>
+        <Item>dlcpacks:/patchday22ng/</Item>
+        <Item>dlcpacks:/mpheist3/</Item>
+        <Item>dlcpacks:/mpsum/</Item>
+        <Item>dlcpacks:/patchday23ng/</Item>
+        <Item>dlcpacks:/mpheist4/</Item>
+        <Item>dlcpacks:/patchday24ng/</Item>
+        <Item>dlcpacks:/mptuner/</Item>
+        <Item>dlcpacks:/patchday25ng/</Item>
+        <Item>dlcpacks:/mpsecurity/</Item>
+        <Item>dlcpacks:/patchday26ng/</Item>
+        <Item>dlcpacks:/mpg9ec/</Item>
+        <Item>dlcpacks:/patchdayg9ecng/</Item>
+        <Item>dlcpacks:/mpsum2/</Item>
+        <Item>dlcpacks:/patchday27ng/</Item>
+        <Item>dlcpacks:/mpsum2_g9ec/</Item>
+        <Item>dlcpacks:/patchday27g9ecng/</Item>
+        <Item>dlcpacks:/mpchristmas3/</Item>
+        <Item>dlcpacks:/mpchristmas3_g9ec/</Item>
+        <Item>dlcpacks:/patchday28ng/</Item>
+        <Item>dlcpacks:/patchday28g9ecng/</Item>
+        <Item>dlcpacks:/mp2023_01/</Item>
+        <Item>dlcpacks:/patch2023_01/</Item>
+        <Item>dlcpacks:/patch2023_01_g9ec/</Item>
+        <Item>dlcpacks:/mp2023_01_g9ec/</Item>
+        <Item>dlcpacks:/mp2023_02/</Item>
+        <Item>dlcpacks:/patch2023_02/</Item>
+        <Item>dlcpacks:/mp2023_02_g9ec/</Item>
+
+        <!--
+        ================================================================================================================
+        = CLOTHING
+        ================================================================================================================-->
+        <!--<Item>dlcpacks:/clothing/male/bags/</Item>
+        <Item>dlcpacks:/clothing/male/decals/</Item>
+        <Item>dlcpacks:/clothing/male/hair/</Item>
+        <Item>dlcpacks:/clothing/male/mask/</Item>
+        <Item>dlcpacks:/clothing/male/other/</Item>
+        <Item>dlcpacks:/clothing/male/pants/</Item>
+        <Item>dlcpacks:/clothing/male/props/</Item>
+        <Item>dlcpacks:/clothing/male/props2/</Item>
+        <Item>dlcpacks:/clothing/male/shoes/</Item>
+        <Item>dlcpacks:/clothing/male/tops/</Item>
+        <Item>dlcpacks:/clothing/male/tops2/</Item>
+
+        <Item>dlcpacks:/clothing/female/bags/</Item>
+        <Item>dlcpacks:/clothing/female/decals/</Item>
+        <Item>dlcpacks:/clothing/female/hair/</Item>
+        <Item>dlcpacks:/clothing/female/mask/</Item>
+        <Item>dlcpacks:/clothing/female/other/</Item>
+        <Item>dlcpacks:/clothing/female/pants/</Item>
+        <Item>dlcpacks:/clothing/female/props/</Item>
+        <Item>dlcpacks:/clothing/female/shoes/</Item>
+        <Item>dlcpacks:/clothing/female/tops/</Item>
+        <Item>dlcpacks:/clothing/female/tops2/</Item>-->
+
+        <Item>dlcpacks:/clothing/grand_clothes_1/</Item>
+        <Item>dlcpacks:/clothing/grand_clothes_2/</Item>
+        <Item>dlcpacks:/clothing/grand_clothes_3/</Item>
+        <Item>dlcpacks:/clothing/grand_clothes_4/</Item>
+        <Item>dlcpacks:/clothing/grand_clothes_5/</Item>
+        <Item>dlcpacks:/clothing/grand_clothes_6/</Item>
+        <Item>dlcpacks:/clothing/grand_clothes_7/</Item>
+        <Item>dlcpacks:/clothing/grand_clothes_8/</Item>
+        <Item>dlcpacks:/clothing/grand_clothes_9/</Item>
+        <Item>dlcpacks:/clothing/grand_clothes_10/</Item>
+        <Item>dlcpacks:/clothing/grand_clothes_11/</Item>
+        <Item>dlcpacks:/clothing/grand_clothes_12/</Item>
+        <Item>dlcpacks:/clothing/grand_clothes_13/</Item>
+        <Item>dlcpacks:/clothing/grand_clothes_meta/</Item>
+
+        <!--
+        ================================================================================================================
+        = CUSTOM
+        ================================================================================================================-->
+        <Item>dlcpacks:/custom/wheels_tuning/</Item>
+
+        <!--
+        ================================================================================================================
+        = MAPPING
+        ================================================================================================================-->
+
+        <!-- BAR -->
+        <Item>dlcpacks:/mapping/bar/bahama/</Item>
+        <Item>dlcpacks:/mapping/bar/beach_galdin/</Item>
+        <Item>dlcpacks:/mapping/bar/beach_nikki/</Item>
+        <Item>dlcpacks:/mapping/bar/beach_paradise/</Item>
+        <Item>dlcpacks:/mapping/bar/beach_tiki/</Item>
+        <Item>dlcpacks:/mapping/bar/de_luxe/</Item>
+        <Item>dlcpacks:/mapping/bar/galaxy/</Item>
+        <Item>dlcpacks:/mapping/bar/hen_house/</Item>
+        <Item>dlcpacks:/mapping/bar/splitsides/</Item>
+        <Item>dlcpacks:/mapping/bar/vanilla_unicorn/</Item>
+        <Item>dlcpacks:/mapping/bar/wiwang/</Item>
+
+        <!-- CRIME -->
+        <Item>dlcpacks:/mapping/crime/gang/ballas/</Item>
+        <Item>dlcpacks:/mapping/crime/gang/bloods/</Item>
+        <Item>dlcpacks:/mapping/crime/gang/families/</Item>
+        <Item>dlcpacks:/mapping/crime/gang/marabunta/</Item>
+        <Item>dlcpacks:/mapping/crime/gang/vagos/</Item>
+
+        <Item>dlcpacks:/mapping/crime/mafia/armenian_farm/</Item>
+        <Item>dlcpacks:/mapping/crime/mafia/russian_ranch/</Item>
+        <Item>dlcpacks:/mapping/crime/mafia/yakuza_city/</Item>
+        <Item>dlcpacks:/mapping/crime/mafia/lcn_vineyard/</Item>
+
+        <Item>dlcpacks:/mapping/crime/mafia_hotel/</Item>
+
+        <!-- EVENTS -->
+        <!--<Item>dlcpacks:/mapping/events/halloween/</Item>-->
+        <!--<Item>dlcpacks:/mapping/events/christmas/</Item>-->
+        <!--<Item>dlcpacks:/mapping/events/new_year/</Item>-->
+
+        <!-- ORGANIZATION -->
+        <Item>dlcpacks:/mapping/faction/army/</Item>
+        <Item>dlcpacks:/mapping/faction/army_range/</Item>
+        <!--<Item>dlcpacks:/mapping/faction/city_hall/</Item>-->
+        <Item>dlcpacks:/mapping/faction/ems_eclipse/</Item>
+        <Item>dlcpacks:/mapping/faction/ems_paleto/</Item>
+        <Item>dlcpacks:/mapping/faction/ems_pillbox/</Item>
+        <Item>dlcpacks:/mapping/faction/ems_sandy/</Item>
+        <!--<Item>dlcpacks:/mapping/faction/fib/</Item>-->
+        <Item>dlcpacks:/mapping/faction/fib_noose/</Item>
+        <Item>dlcpacks:/mapping/faction/government/</Item>
+        <Item>dlcpacks:/mapping/faction/lifeinvader/</Item>
+        <Item>dlcpacks:/mapping/faction/lifeinvader_garage/</Item>
+        <Item>dlcpacks:/mapping/faction/lost_bikes/</Item>
+        <!--<Item>dlcpacks:/mapping/faction/lost_moto_club/</Item>-->
+        <Item>dlcpacks:/mapping/faction/lspd_mission_row/</Item>
+        <!--<Item>dlcpacks:/mapping/faction/lspd_vinewood/</Item>-->
+        <Item>dlcpacks:/mapping/faction/sahp_paleto/</Item>
+        <Item>dlcpacks:/mapping/faction/weazel_news/</Item>
+
+        <!-- HIDDEN -->
+        <Item>dlcpacks:/mapping/hidden/event_dust/</Item>
+        <Item>dlcpacks:/mapping/hidden/shop_illegal/</Item>
+        <Item>dlcpacks:/mapping/hidden/shop_mask/</Item>
+        <Item>dlcpacks:/mapping/hidden/vip_garage/</Item>
+
+        <!-- HOMES -->
+        <Item>dlcpacks:/mapping/home/custom/home_designer_house/</Item>
+        <Item>dlcpacks:/mapping/home/custom/home_forest_mansion/</Item>
+        <Item>dlcpacks:/mapping/home/custom/home_malibu_mansion/</Item>
+        <Item>dlcpacks:/mapping/home/custom/home_penthouse/</Item>
+
+        <Item>dlcpacks:/mapping/home/custom/leuge/desert_mansion/</Item>
+        <Item>dlcpacks:/mapping/home/custom/leuge/design_house/</Item>
+        <Item>dlcpacks:/mapping/home/custom/leuge/french_villa/</Item>
+        <Item>dlcpacks:/mapping/home/custom/leuge/mafia_mansion/</Item>
+        <Item>dlcpacks:/mapping/home/custom/leuge/mega_villa_design/</Item>
+        <Item>dlcpacks:/mapping/home/custom/leuge/pacific_rooftop/</Item>
+        <Item>dlcpacks:/mapping/home/custom/leuge/pacific_villa/</Item>
+        <Item>dlcpacks:/mapping/home/custom/leuge/the_ora_mansion/</Item>
+        <Item>dlcpacks:/mapping/home/custom/leuge/tropical_villa/</Item>
+        <Item>dlcpacks:/mapping/home/custom/leuge/vinewood_hills_mansion/</Item>
+
+        <Item>dlcpacks:/mapping/home/interior/golf_estate/</Item>
+        <Item>dlcpacks:/mapping/home/interior/playboy_mansion/</Item>
+        <Item>dlcpacks:/mapping/home/interior/richman_gold/</Item>
+        <Item>dlcpacks:/mapping/home/interior/russo_mansion/</Item>
+
+        <!-- MARKETS -->
+        <Item>dlcpacks:/mapping/market/fair_beach/</Item>
+        <Item>dlcpacks:/mapping/market/fair_black/</Item>
+        <Item>dlcpacks:/mapping/market/fair_black_city/</Item>
+
+        <!-- MISCELLANEOUS -->
+        <Item>dlcpacks:/mapping/misc/beach_art_statue/</Item>
+        <Item>dlcpacks:/mapping/misc/beach_fight_club/</Item>
+        <Item>dlcpacks:/mapping/misc/beach_slide_game/</Item>
+        <Item>dlcpacks:/mapping/misc/custom_helipad_mer/</Item>
+        <Item>dlcpacks:/mapping/misc/custom_island_fix/</Item>
+        <Item>dlcpacks:/mapping/misc/custom_port/</Item>
+        <Item>dlcpacks:/mapping/misc/custom_props/</Item>
+        <Item>dlcpacks:/mapping/misc/custom_props_farm/</Item>
+        <Item>dlcpacks:/mapping/misc/custom_signs_neon/</Item>
+        <Item>dlcpacks:/mapping/misc/custom_trees/</Item>
+        <Item>dlcpacks:/mapping/misc/custom_vegetation/</Item>
+        <Item>dlcpacks:/mapping/misc/retexture_bank/</Item>
+        <Item>dlcpacks:/mapping/misc/retexture_barber/</Item>
+        <Item>dlcpacks:/mapping/misc/retexture_store/</Item>
+        <Item>dlcpacks:/mapping/misc/retexture_tattoo/</Item>
+
+        <!-- PARKING -->
+        <Item>dlcpacks:/mapping/parking/parking_30/</Item>
+        <Item>dlcpacks:/mapping/parking/parking_50/</Item>
+
+        <!-- SERVICE -->
+        <Item>dlcpacks:/mapping/service/247/alta/</Item>
+        <Item>dlcpacks:/mapping/service/247/legion/</Item>
+        <Item>dlcpacks:/mapping/service/247/rockford/</Item>
+        <Item>dlcpacks:/mapping/service/247/zancudo/</Item>
+
+        <!--<Item>dlcpacks:/mapping/service/activity/gym_la_fitness/</Item>-->
+        <Item>dlcpacks:/mapping/service/activity/head_hunter_terminal/</Item>
+
+        <Item>dlcpacks:/mapping/service/ammunation/ammunation_black/</Item>
+
+        <Item>dlcpacks:/mapping/service/clothing/leopoldius/</Item>
+
+        <Item>dlcpacks:/mapping/service/hunting/bayview_lodge/</Item>
+        <Item>dlcpacks:/mapping/service/hunting/hookies_hunting/</Item>
+
+        <Item>dlcpacks:/mapping/service/illegal/white_widow/</Item>
+
+        <Item>dlcpacks:/mapping/service/multi/citymall/</Item>
+        <Item>dlcpacks:/mapping/service/multi/paleto_gas_stores/</Item>
+        <Item>dlcpacks:/mapping/service/multi/shopping_mall/</Item>
+
+        <!--<Item>dlcpacks:/mapping/service/restaurant/bean_cafe/</Item>-->
+        <Item>dlcpacks:/mapping/service/restaurant/burger/</Item>
+        <Item>dlcpacks:/mapping/service/restaurant/burger_closed/</Item>
+        <Item>dlcpacks:/mapping/service/restaurant/burgershot/</Item>
+        <Item>dlcpacks:/mapping/service/restaurant/diner/</Item>
+        <Item>dlcpacks:/mapping/service/restaurant/japanese/</Item>
+        <Item>dlcpacks:/mapping/service/restaurant/legion_hotdogs/</Item>
+        <!--<Item>dlcpacks:/mapping/service/restaurant/pizza/</Item>-->
+        <Item>dlcpacks:/mapping/service/restaurant/uwu_cafe/</Item>
+
+        <!--<Item>dlcpacks:/mapping/service/studio/photo/</Item>-->
+        <Item>dlcpacks:/mapping/service/studio/rockford/</Item>
+
+        <!--<Item>dlcpacks:/mapping/service/taxi/office/</Item>-->
+        <Item>dlcpacks:/mapping/service/taxi/vinewood/</Item>
+
+        <!--<Item>dlcpacks:/mapping/service/vehicle/benefactor/</Item>-->
+        <Item>dlcpacks:/mapping/service/vehicle/boat_aweigh/</Item>
+        <Item>dlcpacks:/mapping/service/vehicle/boat_dealer/</Item>
+        <Item>dlcpacks:/mapping/service/vehicle/lux_motors/</Item>
+        <Item>dlcpacks:/mapping/service/vehicle/mosley_auto/</Item>
+        <Item>dlcpacks:/mapping/service/vehicle/moto_exotic/</Item>
+        <Item>dlcpacks:/mapping/service/vehicle/moto_sanders/</Item>
+        <Item>dlcpacks:/mapping/service/vehicle/pixel_cars/</Item>
+
+        <!-- STATE -->
+        <Item>dlcpacks:/mapping/state/airport_city/</Item>
+        <Item>dlcpacks:/mapping/state/arcadius_cerberus/</Item>
+        <Item>dlcpacks:/mapping/state/bank/</Item>
+        <Item>dlcpacks:/mapping/state/casino_heist/</Item>
+        <Item>dlcpacks:/mapping/state/church_rockford/</Item>
+        <Item>dlcpacks:/mapping/state/court/</Item>
+        <Item>dlcpacks:/mapping/state/hotel/betting/</Item>
+        <Item>dlcpacks:/mapping/state/hotel/hallway/</Item>
+        <Item>dlcpacks:/mapping/state/hotel/lobby/</Item>
+        <Item>dlcpacks:/mapping/state/hotel/room/</Item>
+        <Item>dlcpacks:/mapping/state/hotel/spa/</Item>
+        <Item>dlcpacks:/mapping/state/mining/</Item>
+        <Item>dlcpacks:/mapping/state/postal_center/</Item>
+        <Item>dlcpacks:/mapping/state/postal_paleto/</Item>
+        <Item>dlcpacks:/mapping/state/prison/</Item>
+        <Item>dlcpacks:/mapping/state/school_auto_city/</Item>
+        <Item>dlcpacks:/mapping/state/school_dashound_drive_center/</Item>
+        <Item>dlcpacks:/mapping/state/school_drift/</Item>
+        <Item>dlcpacks:/mapping/state/school_licensing_center/</Item>
+        <Item>dlcpacks:/mapping/state/weapon_assembly/</Item>
+
+        <!-- TUNING -->
+        <!--<Item>dlcpacks:/mapping/tuning/lsc_airport/</Item>-->
+        <!--<Item>dlcpacks:/mapping/tuning/lsc_auto_exotic/</Item>-->
+        <Item>dlcpacks:/mapping/tuning/lsc_burton/</Item>
+        <Item>dlcpacks:/mapping/tuning/lsc_east_customs/</Item>
+        <!--<Item>dlcpacks:/mapping/tuning/lsc_harmony/</Item>-->
+        <Item>dlcpacks:/mapping/tuning/lsc_hayes_auto/</Item>
+        <Item>dlcpacks:/mapping/tuning/lsc_strokemasters/</Item>
+
+        <!--
+        ================================================================================================================
+        = VEHICLES
+        ================================================================================================================-->
+        <Item>dlcpacks:/vehicle/alfa/4c/</Item>
+        <Item>dlcpacks:/vehicle/alfa/giuliagta/</Item>
+
+        <Item>dlcpacks:/vehicle/animated/fordgtultimate/</Item>
+        <Item>dlcpacks:/vehicle/animated/jes21/</Item>
+        <Item>dlcpacks:/vehicle/animated/msls/</Item>
+        <Item>dlcpacks:/vehicle/animated/ocnetrongt/</Item>
+        <Item>dlcpacks:/vehicle/animated/px911/</Item>
+        <Item>dlcpacks:/vehicle/animated/pxaventador/</Item>
+        <Item>dlcpacks:/vehicle/animated/pxfenyr/</Item>
+        <Item>dlcpacks:/vehicle/animated/pxhuracan/</Item>
+        <!-- <Item>dlcpacks:/vehicle/animated/pxm4/</Item> -->
+        <Item>dlcpacks:/vehicle/animated/pxm5/</Item>
+        <Item>dlcpacks:/vehicle/animated/pxmodelx1/</Item>
+        <Item>dlcpacks:/vehicle/animated/pxmp4/</Item>
+        <Item>dlcpacks:/vehicle/animated/pxperformante/</Item>
+        <!-- <Item>dlcpacks:/vehicle/animated/pxq90/</Item> -->
+        <Item>dlcpacks:/vehicle/animated/pxsenna/</Item>
+        <Item>dlcpacks:/vehicle/animated/pxveneno/</Item>
+        <Item>dlcpacks:/vehicle/animated/rsvr16/</Item>
+        <Item>dlcpacks:/vehicle/animated/shelbylbwk/</Item>
+        <Item>dlcpacks:/vehicle/animated/zl12017/</Item>
+
+        <!--<Item>dlcpacks:/vehicle/astonmartin/aston_valkyrietp/</Item>
+        <Item>dlcpacks:/vehicle/astonmartin/aston_victor/</Item>-->
+        <Item>dlcpacks:/vehicle/astonmartin/gomartin/</Item>
+        <!--<Item>dlcpacks:/vehicle/astonmartin/vulcan/</Item>-->
+
+        <Item>dlcpacks:/vehicle/audi/audir8/</Item>
+        <Item>dlcpacks:/vehicle/audi/audirs6/</Item>
+        <Item>dlcpacks:/vehicle/audi/gors7/</Item>
+
+        <Item>dlcpacks:/vehicle/bentley/bbentayga/</Item>
+        <Item>dlcpacks:/vehicle/bentley/contgt20c/</Item>
+        <!--<Item>dlcpacks:/vehicle/bentley/mulca21/</Item>-->
+
+        <Item>dlcpacks:/vehicle/bmw/bmw21m5/</Item>
+        <Item>dlcpacks:/vehicle/bmw/bmwg05/</Item>
+        <Item>dlcpacks:/vehicle/bmw/bmwm5/</Item>
+        <Item>dlcpacks:/vehicle/bmw/bmwm5e60/</Item>
+        <Item>dlcpacks:/vehicle/bmw/bmwx5me70/</Item>
+        <Item>dlcpacks:/vehicle/bmw/e34go/</Item>
+        <Item>dlcpacks:/vehicle/bmw/gobmwm1/</Item>
+        <Item>dlcpacks:/vehicle/bmw/gobmwm8/</Item>
+        <Item>dlcpacks:/vehicle/bmw/godarki8/</Item>
+        <Item>dlcpacks:/vehicle/bmw/gom3e36/</Item>
+        <Item>dlcpacks:/vehicle/bmw/gom8gte/</Item>
+        <Item>dlcpacks:/vehicle/bmw/gox6/</Item>
+        <Item>dlcpacks:/vehicle/bmw/m3g80/</Item>
+        <Item>dlcpacks:/vehicle/bmw/m5f90/</Item>
+        <Item>dlcpacks:/vehicle/bmw/veh_minic/</Item>
+
+        <Item>dlcpacks:/vehicle/bugatti/atlantic/</Item>
+        <Item>dlcpacks:/vehicle/bugatti/bdivo/</Item>
+        <Item>dlcpacks:/vehicle/bugatti/bug300ss/</Item>
+        <Item>dlcpacks:/vehicle/bugatti/bugatticentodieci/</Item>
+        <Item>dlcpacks:/vehicle/bugatti/bugattilanoire/</Item>
+        <Item>dlcpacks:/vehicle/bugatti/chirongo/</Item>
+        <!--<Item>dlcpacks:/vehicle/bugatti/HarvinoiiDMistral/</Item>-->
+        <Item>dlcpacks:/vehicle/bugatti/veyronss/</Item>
+
+        <!--<Item>dlcpacks:/vehicle/buick/bgnx/</Item>-->
+
+        <Item>dlcpacks:/vehicle/chevrolet/17silverado/</Item>
+        <Item>dlcpacks:/vehicle/chevrolet/chevelle1970/</Item>
+        <Item>dlcpacks:/vehicle/chevrolet/gozl1/</Item>
+        <Item>dlcpacks:/vehicle/chevrolet/impala/</Item>
+        <Item>dlcpacks:/vehicle/chevrolet/impala67/</Item>
+        <!--<Item>dlcpacks:/vehicle/chevrolet/impalass/</Item>-->
+        <Item>dlcpacks:/vehicle/chevrolet/montecarlo/</Item>
+        <Item>dlcpacks:/vehicle/chevrolet/tahoego/</Item>
+
+        <Item>dlcpacks:/vehicle/dodge/go16charger/</Item>
+        <Item>dlcpacks:/vehicle/dodge/gocharger69/</Item>
+
+        <Item>dlcpacks:/vehicle/ferrari/F8Tributo/</Item>
+        <Item>dlcpacks:/vehicle/ferrari/f12berlinetta/</Item>
+        <Item>dlcpacks:/vehicle/ferrari/ffgo/</Item>
+        <Item>dlcpacks:/vehicle/ferrari/go430/</Item>
+
+        <Item>dlcpacks:/vehicle/ford/19raptor/</Item>
+        <Item>dlcpacks:/vehicle/ford/focusrs/</Item>
+        <Item>dlcpacks:/vehicle/ford/fordgt500/</Item>
+        <Item>dlcpacks:/vehicle/ford/gomustang/</Item>
+        <Item>dlcpacks:/vehicle/ford/mustangmach1/</Item>
+
+        <Item>dlcpacks:/vehicle/jeep/gojeep/</Item>
+
+        <Item>dlcpacks:/vehicle/jlr/fpace/</Item>
+        <Item>dlcpacks:/vehicle/jlr/ipace/</Item>
+        <Item>dlcpacks:/vehicle/jlr/lrdef17/</Item>
+        <!--<Item>dlcpacks:/vehicle/jlr/rangerover/</Item>
+        <Item>dlcpacks:/vehicle/jlr/veh_rrsvr/</Item>-->
+
+        <Item>dlcpacks:/vehicle/kawasaki/h2r/</Item>
+
+        <Item>dlcpacks:/vehicle/koenigsegg/gojesko/</Item>
+
+        <Item>dlcpacks:/vehicle/lada/goniva/</Item>
+        <Item>dlcpacks:/vehicle/lada/vaz2170/</Item>
+
+        <Item>dlcpacks:/vehicle/lamborghini/golp670/</Item>
+        <Item>dlcpacks:/vehicle/lamborghini/gosian/</Item>
+        <Item>dlcpacks:/vehicle/lamborghini/gosianr/</Item>
+        <Item>dlcpacks:/vehicle/lamborghini/gotopgunurus/</Item>
+        <Item>dlcpacks:/vehicle/lamborghini/goveneno/</Item>
+        <Item>dlcpacks:/vehicle/lamborghini/lambago/</Item>
+        <Item>dlcpacks:/vehicle/lamborghini/polaventa/</Item>
+
+        <Item>dlcpacks:/vehicle/man/mana37/</Item>
+
+        <Item>dlcpacks:/vehicle/mazda/mazrx7fb/</Item>
+
+        <Item>dlcpacks:/vehicle/mclaren/gospeed/</Item>
+        <Item>dlcpacks:/vehicle/mclaren/maclarengo/</Item>
+
+        <Item>dlcpacks:/vehicle/mercedes/2018s650p/</Item>
+        <Item>dlcpacks:/vehicle/mercedes/amgc63coupe/</Item>
+        <Item>dlcpacks:/vehicle/mercedes/amgs63w222/</Item>
+        <Item>dlcpacks:/vehicle/mercedes/cls17/</Item>
+        <Item>dlcpacks:/vehicle/mercedes/cls500w219/</Item>
+        <Item>dlcpacks:/vehicle/mercedes/e63sf/</Item>
+        <Item>dlcpacks:/vehicle/mercedes/g63amg6x6/</Item>
+        <Item>dlcpacks:/vehicle/mercedes/g65go/</Item>
+        <Item>dlcpacks:/vehicle/mercedes/gls63go/</Item>
+        <Item>dlcpacks:/vehicle/mercedes/GO650/</Item>
+        <Item>dlcpacks:/vehicle/mercedes/goamggt/</Item>
+        <Item>dlcpacks:/vehicle/mercedes/gobrabus500/</Item>
+        <Item>dlcpacks:/vehicle/mercedes/goe63s/</Item>
+        <Item>dlcpacks:/vehicle/mercedes/goe63spolice/</Item>
+        <Item>dlcpacks:/vehicle/mercedes/gogls20/</Item>
+        <Item>dlcpacks:/vehicle/mercedes/gosl63/</Item>
+        <Item>dlcpacks:/vehicle/mercedes/goxclass/</Item>
+        <Item>dlcpacks:/vehicle/mercedes/mb140go/</Item>
+        <Item>dlcpacks:/vehicle/mercedes/msprinter/</Item>
+        <Item>dlcpacks:/vehicle/mercedes/s500/</Item>
+        <!--<Item>dlcpacks:/vehicle/mercedes/w124e500/</Item>-->
+        <Item>dlcpacks:/vehicle/mercedes/w140s600/</Item>
+        <Item>dlcpacks:/vehicle/mercedes/w210/</Item>
+        <Item>dlcpacks:/vehicle/mercedes/w447/</Item>
+
+        <!--<Item>dlcpacks:/vehicle/nissan/gc10/</Item>-->
+        <Item>dlcpacks:/vehicle/nissan/gogtr50/</Item>
+        <Item>dlcpacks:/vehicle/nissan/goskyline34/</Item>
+        <Item>dlcpacks:/vehicle/nissan/goz350/</Item>
+        <Item>dlcpacks:/vehicle/nissan/gtrr35/</Item>
+
+        <Item>dlcpacks:/vehicle/pagani/zondab1/</Item>
+
+        <Item>dlcpacks:/vehicle/porsche/cayennego/</Item>
+        <Item>dlcpacks:/vehicle/porsche/go918/</Item>
+        <Item>dlcpacks:/vehicle/porsche/p992/</Item>
+        <Item>dlcpacks:/vehicle/porsche/panamera17turbo/</Item>
+        <Item>dlcpacks:/vehicle/porsche/portaycan/</Item>
+
+        <Item>dlcpacks:/vehicle/renault/goren/</Item>
+
+        <Item>dlcpacks:/vehicle/rollsroyce/dawn/</Item>
+        <Item>dlcpacks:/vehicle/rollsroyce/rolls08/</Item>
+        <Item>dlcpacks:/vehicle/rollsroyce/rollswrait/</Item>
+        <Item>dlcpacks:/vehicle/rollsroyce/rrcullinan/</Item>
+        <Item>dlcpacks:/vehicle/rollsroyce/rrphantomgo/</Item>
+
+        <Item>dlcpacks:/vehicle/tesla/teslas/</Item>
+        <Item>dlcpacks:/vehicle/tesla/teslax/</Item>
+        <Item>dlcpacks:/vehicle/tesla/tesroad20/</Item>
+        <Item>dlcpacks:/vehicle/tesla/tmodel/</Item>
+
+        <Item>dlcpacks:/vehicle/toyota/camry70/</Item>
+        <Item>dlcpacks:/vehicle/toyota/celisupra/</Item>
+        <Item>dlcpacks:/vehicle/toyota/golc200/</Item>
+        <Item>dlcpacks:/vehicle/toyota/lc300/</Item>
+        <Item>dlcpacks:/vehicle/toyota/mark100/</Item>
+        <Item>dlcpacks:/vehicle/toyota/toysupmk4/</Item>
+
+        <Item>dlcpacks:/vehicle/unique/fxiaop/</Item>
+        <Item>dlcpacks:/vehicle/unique/golego1/</Item>
+        <Item>dlcpacks:/vehicle/unique/golego2/</Item>
+        <Item>dlcpacks:/vehicle/unique/gomonster/</Item>
+        <Item>dlcpacks:/vehicle/unique/gomonsterr34/</Item>
+        <Item>dlcpacks:/vehicle/unique/police_carpack/</Item>
+
+        <Item>dlcpacks:/vehicle/volkswagen/gogolf7s/</Item>
+
+        <Item>dlcpacks:/vehicle/bonuscars/cycloneex0/</Item>
+        <Item>dlcpacks:/vehicle/bonuscars/estancia/</Item>
+        <Item>dlcpacks:/vehicle/bonuscars/elytron/</Item>
+
+    </Paths>
+</SMandatoryPacksData>
